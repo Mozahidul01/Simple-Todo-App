@@ -1,1 +1,1 @@
-# Simple-Todo-App
+# A Simple Todo Application with Redux
